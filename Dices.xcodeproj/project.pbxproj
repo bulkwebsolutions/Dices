@@ -15,6 +15,14 @@
 		356E9CCB1B4E0215009ABC83 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 356E9CCA1B4E0215009ABC83 /* Images.xcassets */; };
 		356E9CCE1B4E0215009ABC83 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 356E9CCC1B4E0215009ABC83 /* LaunchScreen.xib */; };
 		356E9CDA1B4E0215009ABC83 /* DicesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 356E9CD91B4E0215009ABC83 /* DicesTests.m */; };
+		356E9D581B4F6C50009ABC83 /* dices1.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D501B4F6C50009ABC83 /* dices1.png */; };
+		356E9D591B4F6C50009ABC83 /* dices2.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D511B4F6C50009ABC83 /* dices2.png */; };
+		356E9D5A1B4F6C50009ABC83 /* dices3.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D521B4F6C50009ABC83 /* dices3.png */; };
+		356E9D5B1B4F6C50009ABC83 /* dices4.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D531B4F6C50009ABC83 /* dices4.png */; };
+		356E9D5C1B4F6C50009ABC83 /* dices5.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D541B4F6C50009ABC83 /* dices5.png */; };
+		356E9D5D1B4F6C50009ABC83 /* dices6.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D551B4F6C50009ABC83 /* dices6.png */; };
+		356E9D5E1B4F6C50009ABC83 /* felt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D561B4F6C50009ABC83 /* felt.jpg */; };
+		356E9D5F1B4F6C50009ABC83 /* roll.png in Resources */ = {isa = PBXBuildFile; fileRef = 356E9D571B4F6C50009ABC83 /* roll.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +50,14 @@
 		356E9CD31B4E0215009ABC83 /* DicesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DicesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		356E9CD81B4E0215009ABC83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		356E9CD91B4E0215009ABC83 /* DicesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DicesTests.m; sourceTree = "<group>"; };
+		356E9D501B4F6C50009ABC83 /* dices1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices1.png; path = "../../Desktop/dice images/dices1.png"; sourceTree = "<group>"; };
+		356E9D511B4F6C50009ABC83 /* dices2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices2.png; path = "../../Desktop/dice images/dices2.png"; sourceTree = "<group>"; };
+		356E9D521B4F6C50009ABC83 /* dices3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices3.png; path = "../../Desktop/dice images/dices3.png"; sourceTree = "<group>"; };
+		356E9D531B4F6C50009ABC83 /* dices4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices4.png; path = "../../Desktop/dice images/dices4.png"; sourceTree = "<group>"; };
+		356E9D541B4F6C50009ABC83 /* dices5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices5.png; path = "../../Desktop/dice images/dices5.png"; sourceTree = "<group>"; };
+		356E9D551B4F6C50009ABC83 /* dices6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dices6.png; path = "../../Desktop/dice images/dices6.png"; sourceTree = "<group>"; };
+		356E9D561B4F6C50009ABC83 /* felt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = felt.jpg; path = "../../Desktop/dice images/felt.jpg"; sourceTree = "<group>"; };
+		356E9D571B4F6C50009ABC83 /* roll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = roll.png; path = "../../Desktop/dice images/roll.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +84,14 @@
 				356E9CB91B4E0215009ABC83 /* Dices */,
 				356E9CD61B4E0215009ABC83 /* DicesTests */,
 				356E9CB81B4E0215009ABC83 /* Products */,
+				356E9D501B4F6C50009ABC83 /* dices1.png */,
+				356E9D511B4F6C50009ABC83 /* dices2.png */,
+				356E9D521B4F6C50009ABC83 /* dices3.png */,
+				356E9D531B4F6C50009ABC83 /* dices4.png */,
+				356E9D541B4F6C50009ABC83 /* dices5.png */,
+				356E9D551B4F6C50009ABC83 /* dices6.png */,
+				356E9D561B4F6C50009ABC83 /* felt.jpg */,
+				356E9D571B4F6C50009ABC83 /* roll.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -171,6 +195,7 @@
 				TargetAttributes = {
 					356E9CB61B4E0215009ABC83 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = L3G9LCNM63;
 					};
 					356E9CD21B4E0215009ABC83 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -203,8 +228,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				356E9CC91B4E0215009ABC83 /* Main.storyboard in Resources */,
+				356E9D5B1B4F6C50009ABC83 /* dices4.png in Resources */,
 				356E9CCE1B4E0215009ABC83 /* LaunchScreen.xib in Resources */,
+				356E9D5D1B4F6C50009ABC83 /* dices6.png in Resources */,
+				356E9D5C1B4F6C50009ABC83 /* dices5.png in Resources */,
+				356E9D5A1B4F6C50009ABC83 /* dices3.png in Resources */,
+				356E9D591B4F6C50009ABC83 /* dices2.png in Resources */,
+				356E9D5F1B4F6C50009ABC83 /* roll.png in Resources */,
+				356E9D581B4F6C50009ABC83 /* dices1.png in Resources */,
 				356E9CCB1B4E0215009ABC83 /* Images.xcassets in Resources */,
+				356E9D5E1B4F6C50009ABC83 /* felt.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,9 +384,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Dices/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -361,9 +397,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Dices/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -420,6 +459,7 @@
 				356E9CDF1B4E0215009ABC83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		356E9CE01B4E0215009ABC83 /* Build configuration list for PBXNativeTarget "DicesTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +468,7 @@
 				356E9CE21B4E0215009ABC83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

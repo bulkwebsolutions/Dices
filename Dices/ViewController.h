@@ -8,8 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
 
+    IBOutlet UIImageView *imageView;
+    IBOutlet UIImageView *imageView2;
+}
+
+-(IBAction)randomize:(id)sender;
+
+-(IBAction)randomize2:(id)sender2;
 
 @end
 
